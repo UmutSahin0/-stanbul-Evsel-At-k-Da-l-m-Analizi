@@ -7,3 +7,7 @@ Bu çalışmadaki amaç deneyim kazanmanın yanında, iyileştirilmeye açık ba
 
 
 ![Slayt1](https://user-images.githubusercontent.com/48882251/195205102-b823a1f0-d1fd-46d2-948f-8f0a4ede1466.JPG)
+
+![Slayt2](https://user-images.githubusercontent.com/48882251/195205147-f05b6434-ca24-4380-9d41-a210bf625c72.JPG)
+![Slayt3](https://user-images.githubusercontent.com/48882251/195205160-044ce9d9-3c2b-4d9b-b821-144c1eb6f190.JPG)
+![Slayt4](https://user-images.githubusercontent.com/48882251/195205168-1fd6f5e3-b136-44dc-b6af-ef4759d594ea.JPG)
