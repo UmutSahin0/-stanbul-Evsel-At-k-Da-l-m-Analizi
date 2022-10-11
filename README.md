@@ -5,6 +5,6 @@ Evsel atık miktarı dağılımı verileri https://data.ibb.gov.tr/dataset sites
 
 Bu çalışmadaki amaç deneyim kazanmanın yanında, iyileştirilmeye açık bariz alanlar bırakılarak başka Junior arkadaşların da kolayca katkıda bulunabilmesini sağlama ve beraber fikir alış verişinde bulunabilme,takım çalışması yürütme amacı da taşıyor. Örneğin projeye, ilçelere göre hane sayıları,ilçelerin yüz ölçümü, ilçelere göre atıktan geri kazanım miktarları gibi veriler ekleyebilirsiniz.
 
-![alt text](https://resimlink.com/cpHtu3)
+![alt text]([https://resimlink.com/cpHtu3](https://r.resimlink.com/cpHtu3.jpg))
 
 
